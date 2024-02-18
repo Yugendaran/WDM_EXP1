@@ -54,6 +54,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+EMPLOYEE TABLE:
+![image](https://github.com/varalakshmi1084/WDM_EXP1/assets/128135616/241c4ba0-1ccc-4699-9ed5-b318a62174e9)
+
+WEATHER TABLE:
+
 
 
 ### PREPROCESSING
